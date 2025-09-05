@@ -32,7 +32,6 @@
         "vscode": {
             "extensions": [
                 "donjayamanne.githistory",
-                "bradlc.vscode-tailwindcss",
                 "eamodio.gitlens",
                 "dbaeumer.vscode-eslint",
                 // "esbenp.prettier-vscode",
@@ -43,7 +42,7 @@
                 "vscodevim.vim",
                 "mhutchie.git-graph",
                 "oderwat.indent-rainbow",
-                "Vue.volar",
+                "ms-dotnettools.csdevkit",
 
                 // themes
                 "teabyii.ayu",
